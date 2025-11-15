@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div>
             <div className="flex items-center space-x-2 mb-4">
-              <img src={GuardianIcon} className="w-14 h-14" alt="Guardian Icon" />
+              <img src={GuardianIcon} className="w-10 h-12" alt="Guardian Icon" />
               <span className="text-2xl font-bold">Guardian De Acero</span>
             </div>
             <p className="text-gray-400">
